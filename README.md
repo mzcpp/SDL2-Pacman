@@ -8,6 +8,6 @@ Sources:
   - https://gameinternals.com/understanding-pac-man-ghost-behavior
   - http://donhodges.com/pacman_pinky_explanation.htm
 
-<img src="img/pacman_1"/>
-<img src="img/pacman_2"/>
-<img src="img/pacman_3"/>
+<img src="img/pacman_1.png"/>
+<img src="img/pacman_2.png"/>
+<img src="img/pacman_3.png"/>
